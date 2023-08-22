@@ -3,6 +3,8 @@ This internship program focuses on providing you with hands-on experience in web
 
 ### TASK 1 : MAKE A SURVEY FORM
 Create a multi-page survey and make sure that the states are saved between pages. Eventually, make sure the survey can submit the data somewhere, whether via email or stored in a database.
+![Survey Form](https://github.com/musharafali07/CodeAlpha-Internship/assets/111215088/5a71b9ec-cf72-4b8c-a30c-584ee21f10ce)
+
 
 ### TASK 2: INTEGRATE CAPTCHA WITH AN EXISTING WEBSITE
 This is an introduction to using third-party scripts on an existing website,and it’s an important talent to have. A lot of websites today use multiple third-party apps. This is also great practice in following a developer’s documentation.
